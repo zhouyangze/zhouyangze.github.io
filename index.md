@@ -24,15 +24,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Syntax highlighted code block
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](C:\Users\22365\Desktop\1.jpg)
+[Link](url) and ![Image](https://github.com/zhouyangze/zhouyangze.github.io/blob/main/1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
