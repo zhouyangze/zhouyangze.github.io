@@ -12,13 +12,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### contact information:
 
-#### QQ: 2236529036
+####   QQ: 2236529036
 
-#### E-mail: 3190104059@zju.edu.cn
+####   E-mail: 3190104059@zju.edu.cn
 
-#### Wechat: Yangze_Zhou
+####   Wechat: Yangze_Zhou
 
-#### zhihu: YoungZZ
+####   zhihu: YoungZZ
 
 ```markdown
 Syntax highlighted code block
