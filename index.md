@@ -12,6 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### contact information:
 
+#### QQ:2236529036
+
+#### E-mail:3190104059@zju.edu.cn
 
 ```markdown
 Syntax highlighted code block
