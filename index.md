@@ -1,9 +1,5 @@
 # Welcome To My Personal Page
 
-[editor on GitHub](https://github.com/zhouyangze/zhouyangze.github.io/edit/main/index.md)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## 周杨泽        <img align="right" src="https://github.com/zhouyangze/zhouyangze.github.io/blob/main/1.jpg"/>
 
 ### 浙江大学竺可桢学院
