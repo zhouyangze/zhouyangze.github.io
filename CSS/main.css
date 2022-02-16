@@ -1,0 +1,116 @@
+body {
+    background: #fff;
+    line-height: 1.5;
+  }
+  
+  *{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  a, body {
+    color: black;
+  }
+  
+  .side-bar-R {
+    float: right;
+    width: 15%;
+    position: fixed;
+  }
+  
+  .side-bar-L {
+    float: left;
+    width: 15%;
+    position: fixed;
+  }
+  
+  .main {
+    float: right;
+    width: 70%;
+    color: black;
+    margin-right:15%;
+    margin-left:15%;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0,0,0,.2);
+    box-shadow: 0 0 1px 1px rgba(0,0,0,.2);
+  }
+
+  .title{
+    font-size:48px ; 
+    padding-top: 75px;
+    text-align:center;
+    font-weight: bold;
+  }
+
+.main_left{
+  float: left;
+  width: 80%;
+}
+  .item1{
+    padding-top: 30px;
+    margin-left:2%;
+    font-size:36px ; 
+    font-weight: bold;
+  }
+ 
+  .artical1{
+    padding-top: 5px;
+    margin-left:2%;
+    font-size:24px ; 
+    line-height: 1.2;
+    font-weight:normal;
+  }
+
+
+  .Under_review, 
+  .patent, 
+  .journal{
+  padding-top: 5px;
+  padding-bottom: 2px;
+  margin-left:2%;
+  font-size:24px ; 
+  line-height: 2;
+}
+
+
+#date{
+  margin-left: 5%;
+  font-weight: bold;
+}
+#school{
+  font-weight:normal;
+  text-align:center;
+}
+#flag1{
+  margin-left: 5%;
+  font-size:24px ; 
+  font-weight: bold;
+}
+
+#letter{
+  margin-left: 3%;
+  font-size:24px ; 
+  width:1px;
+  font-weight:normal;
+  overflow:hidden
+}
+.skill_item,
+.honor{
+  margin-left: 2%;
+  font-weight:normal;
+}
+
+#skill{
+  font-weight: bold;
+}
+#skill_level{
+  margin-left: 1%;
+}
+
+.zyz{
+  width:147.5px;
+ height:206.5px;
+}
