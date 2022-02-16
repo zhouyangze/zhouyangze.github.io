@@ -51,41 +51,41 @@ body {
 }
   .item1{
     padding-top: 30px;
-    margin-left:2%;
+    margin-left:30px;
     font-size:36px ; 
     font-weight: bold;
   }
  
   .artical1{
     padding-top: 5px;
-    margin-left:2%;
+    margin-left:30px;
     font-size:24px ; 
     line-height: 1.2;
     font-weight:normal;
   }
-
 
   .Under_review, 
   .patent, 
   .journal{
   padding-top: 5px;
   padding-bottom: 2px;
-  margin-left:2%;
+  margin-left:30px;
   font-size:24px ; 
   line-height: 2;
 }
-
+#table2{
+  margin-left: 30px;
+}
 
 #date{
-  margin-left: 5%;
   font-weight: bold;
 }
+
 #school{
   font-weight:normal;
   text-align:center;
 }
 #flag1{
-  margin-left: 5%;
   font-size:24px ; 
   font-weight: bold;
 }
@@ -93,22 +93,18 @@ body {
 #letter{
   margin-left: 3%;
   font-size:24px ; 
-  width:1px;
   font-weight:normal;
-  overflow:hidden
 }
 .skill_item,
 .honor{
-  margin-left: 2%;
+  margin-left: 30px;
   font-weight:normal;
 }
 
 #skill{
   font-weight: bold;
 }
-#skill_level{
-  margin-left: 1%;
-}
+
 
 .zyz{
   width:147.5px;
