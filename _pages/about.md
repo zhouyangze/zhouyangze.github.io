@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 1. **Yangze Zhou**, Guoxin Lin, Yi Wang, "Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors," Submitted to Applied Energy.
 
 ### English Journals Paper
-** 2025**
+**2025**
 1. Xiaorong Wang, **Yangze Zhou***, "[Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)," Applied Energy, 2025, 369:126177.
 
 **2024**
