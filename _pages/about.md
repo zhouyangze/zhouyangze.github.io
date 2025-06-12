@@ -33,6 +33,9 @@ My research interest includes neural machine translation and computer vision. I 
 1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, Privacy-Preserving End-to-End Load Forecasting for Multi-Energy Systems. Submitted to IEEE Transactions on Industrial Informatics.
 1. **Yangze Zhou**, Guoxin Lin, Yi Wang, Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors. Submitted to Applied Energy.
 
+### Accepted Papers
+1. Xiaorong Wang, **Yangze Zhou***, Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach. 
+        Applied Energy, 2025 (IF=11.2).
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
