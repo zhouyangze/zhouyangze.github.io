@@ -29,6 +29,9 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 - **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, Decision-focused Learning for Local Energy Communities Management Under Uncertainty. Submitted to  IEEE Transactions on Smart Grid.
+- Ruiyang Yao, **Yangze Zhou**, Yi Wang, Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting. Submitted to  IEEE Transactions on Smart Grid.
+- **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, Privacy-Preserving End-to-End Load Forecasting for Multi-Energy Systems. Submitted to  IEEE Transactions on Industrial Informatics.
+- **Yangze Zhou**, Guoxin Lin, Yi Wang, Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors. Submitted to Applied Energy.
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
