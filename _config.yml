@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yangze Zhou"
-description              : "Phd Student, Department of Electrical and Electronic Engineering - The University of Hong Kong"
+description              : "Phd Student, Department of Electrical and Electronic Engineering (HKPFS)"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yangze Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
