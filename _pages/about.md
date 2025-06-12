@@ -22,8 +22,8 @@ I am currently a Ph.D student of the Department of Electrical and Electronic Eng
 My research interest includes load forecasting, multi-energy systems, and data sharing in energy systems. I have published more than 11 journal papers (10 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>259</span></strong></a>.
 
 # 📖 Educations
-- *2023.09 - Now*, Ph.D in The University of Hong Kong, Department of Electrical and Electronic Engineering, Supervised by [Yi Wang](http://www.eeyiwang.com/).
-- *2019.09 - 2023.06*, B.E. in Zhejiang University, Chu Ko-Chen Honors College, Engineering in Energy & Environment System.
+- *2023.09 - Now*, Ph.D in The University of Hong Kong (HKU), Department of Electrical and Electronic Engineering, Supervised by [Yi Wang](http://www.eeyiwang.com/).
+- *2019.09 - 2023.06*, B.E. in Zhejiang University (ZJU), Chu Ko-Chen Honors College, Engineering in Energy & Environment System.
 
 # 🔥 News
 - *2025.06*: &nbsp;🇩🇰🥳 I have attended DTU Summer School 2025 and presented our new work "[Decision-focused Learning for Local Energy Communities Management Under Uncertainty](https://energy-markets-school.dk/wp/wp-content/uploads/2025/05/Yangze_Zhou.pdf)".
