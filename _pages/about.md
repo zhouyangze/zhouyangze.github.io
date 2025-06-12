@@ -36,8 +36,9 @@ My research interest includes neural machine translation and computer vision. I 
 ### Published Papers
 1. Xiaorong Wang, **Yangze Zhou***, "Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)," Applied Energy, 2025, 369:126177.
 1. **Yangze Zhou**, Qingsong Wen, Jie Song, Xueyuan Cui, Yi Wang, "Load Data Valuation in Multi-Energy Systems: An End-to-End Approach [pdf](https://ieeexplore.ieee.org/abstract/document/10508249)," IEEE Transactions on Smart Grid, 2024, 15(5):4564-4575.
-2. Chenxi Wang, Yangze Zhou, Qingsong Wen, and Yi Wang, “Improving Load Forecasting Performance via Sample Reweighting [pdf](https://ieeexplore.ieee.org/abstract/document/10106445)," IEEE Transactions on Smart Grid, 2023, 14(4):3317-3320.
-3. Jianxiao Wang, Feng Gao, Yangze Zhou, Qinglai Guo, Chin-Woo Tan, Jie Song, and Yi Wang, “Data Sharing in Energy Systems [pdf](https://www.sciencedirect.com/science/article/pii/S2666792423000112)," Advances in Applied Energy, 2023, 10:100132.
+2. Chenxi Wang, **Yangze Zhou**, Qingsong Wen, and Yi Wang, “Improving Load Forecasting Performance via Sample Reweighting [pdf](https://ieeexplore.ieee.org/abstract/document/10106445)," IEEE Transactions on Smart Grid, 2023, 14(4):3317-3320.
+3. Jianxiao Wang, Feng Gao, **Yangze Zhou**, Qinglai Guo, Chin-Woo Tan, Jie Song, and Yi Wang, “Data Sharing in Energy Systems [pdf](https://www.sciencedirect.com/science/article/pii/S2666792423000112)," Advances in Applied Energy, 2023, 10:100132.
+4. **Yangze Zhou**, Xiangning Tian, Chaobo Zhang, Yang Zhao, Tingting Li, "Elastic Weight Consolidation based Adaptive Neural Networks for Dynamic Building Energy Load Prediction Modeling [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0378778822002699)," Energy and Buildings, 2022, 265:112098.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
