@@ -26,6 +26,7 @@ My research interest includes load forecasting, multi-energy systems, and data s
 - *2019.09 - 2023.06*, B.E. in Zhejiang University, Chu Ko-Chen Honors College, Engineering in Energy & Environment System.
 
 # 🔥 News
+- *2024.04*: &nbsp;🇩🇰🥳 I have attended DTU Summer School 2025 and presented our new work "[Decision-focused Learning for Local Energy Communities Management Under Uncertainty](https://energy-markets-school.dk/wp/wp-content/uploads/2025/05/Yangze_Zhou.pdf)".
 - *2024.04*: &nbsp;🎉🎉 I have been admitted as a visiting student at the University of Washington (Supervised by [Daniel Kirschen](https://people.ece.uw.edu/kirschen/index.html)) from Aug. 2025 to Mar. 2026.
 - *2024.09*: &nbsp;🎉🎉 I have won the Outstanding TA Award of the EEE Department, HKU.
 
