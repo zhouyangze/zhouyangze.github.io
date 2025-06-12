@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 ### Accepted Papers
 1. Xiaorong Wang, **Yangze Zhou***, Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach. 
         Applied Energy, 2025 (IF=11.2).
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
