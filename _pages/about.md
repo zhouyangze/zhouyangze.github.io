@@ -79,12 +79,12 @@ My research interest includes neural machine translation and computer vision. I 
 ### Academic Services
 Reviewer of IEEE Transactions on Smart Grid
           1. Reviewer of IEEE Power Engineering Letter
-          2. Reviewer of IEEE Internet of Things Journal
-          3. Reviewer of IEEE Computational Intelligence Magazine
-         4. item Reviewer of Applied Energy
-            5. item Reviewer of Electric Power Systems Research
-            6. item Reviewer of IET Renewable Power Generation
-             7. item Reviewer of IET Electrical Engineering
+          1. Reviewer of IEEE Internet of Things Journal
+          1. Reviewer of IEEE Computational Intelligence Magazine
+         1. item Reviewer of Applied Energy
+          1. item Reviewer of Electric Power Systems Research
+          1. item Reviewer of IET Renewable Power Generation
+             1. item Reviewer of IET Electrical Engineering
 
 
 # 💻 Internships
