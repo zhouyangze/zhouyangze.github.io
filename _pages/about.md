@@ -38,7 +38,7 @@ My research interest includes load forecasting, multi-energy systems, and data s
 
 ### English Journals Paper
 **2025**
-1. Xiaorong Wang, **Yangze Zhou**, "[Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)," Applied Energy, 2025, 369:126177.
+1. Xiaorong Wang, **Yangze Zhou***, "[Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)," Applied Energy, 2025, 369:126177.
 
 **2024**
 2. **Yangze Zhou**, Qingsong Wen, Jie Song, Xueyuan Cui, Yi Wang, "[Load Data Valuation in Multi-Energy Systems: An End-to-End Approach](https://ieeexplore.ieee.org/abstract/document/10508249)," IEEE Transactions on Smart Grid, 2024, 15(5):4564-4575.
