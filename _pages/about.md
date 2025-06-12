@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 4. **Yangze Zhou**, Xueyuan Cui, [Can Cross-sector Information Improve Multi-energy Demand Forecasting Accuracy](https://www.sciencedirect.com/science/article/pii/S2352484722025811)?" Energy Reports, 2023, 9:886-893.
 5. **Yangze Zhou**, Xiangning Tian, Chaobo Zhang, Yang Zhao, Tingting Li, "[Elastic Weight Consolidation based Adaptive Neural Networks for Dynamic Building Energy Load Prediction Modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378778822002699)," Energy and Buildings, 2022, 265:112098.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZxFQboUAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZxFQboUAAAAJ) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
