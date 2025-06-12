@@ -13,5 +13,8 @@ main:
     url: "/#-publications"
 
   - title: "Scholarships & Honors"
-    url: "/#-honors-and-awards"
+    url: "/#Scholarships-and-Honors"
 
+
+  - title: "Academic and Student Services"
+    url: "/#-Academic-and-Student-Services"
