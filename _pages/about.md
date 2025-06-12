@@ -72,12 +72,6 @@ My research interest includes load forecasting, multi-energy systems, and data s
 3. Outstanding Graduate of ZJU
 4. Outstanding Student of ZJU **(Two times)**
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
-
 # 💻 Academic and Student Services
 
 ### Academic Services
