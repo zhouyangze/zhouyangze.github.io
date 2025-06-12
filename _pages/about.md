@@ -58,8 +58,6 @@ My research interest includes load forecasting, multi-energy systems, and data s
 ### Chinese Journals Paper
 9. **Yangze Zhou**, Yun Su, Ruiyang Yao, Qin Xu, Dalin Qin, Ning Zhang and Yi Wang, "Key Technologies and Research Prospects of Smart Meter Data Sharing," Proceedings of the CSEE, 2025 (In Chinese).
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZxFQboUAAAAJ) 
-
 # 🎖 Scholarships & Honors
 ### Scholarships
 1. Hong Kong Ph.D. Fellowship (HKPFS)
