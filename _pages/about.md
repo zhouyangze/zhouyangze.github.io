@@ -77,15 +77,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Academic & Student Services
 ### Academic Services
-Reviewer of IEEE Transactions on Smart Grid
-1. Reviewer of IEEE Power Engineering Letter
-2. Reviewer of IEEE Internet of Things Journal
-3. Reviewer of IEEE Computational Intelligence Magazine
-4. Reviewer of Applied Energy
-5. Reviewer of Electric Power Systems Research
-6. Reviewer of IET Renewable Power Generation
-7. Reviewer of IET Electrical Engineering
-
+1. Reviewer of IEEE Transactions on Smart Grid
+2. Reviewer of IEEE Power Engineering Letter
+3. Reviewer of IEEE Internet of Things Journal
+4. Reviewer of IEEE Computational Intelligence Magazine
+5. Reviewer of Applied Energy
+6. Reviewer of Electric Power Systems Research
+7. Reviewer of IET Renewable Power Generation
+8. Reviewer of IET Electrical Engineering
+### Academic Services
+1. Teaching Assistant in Energy Internet (ELEC7011) at HKU (195 Students)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
