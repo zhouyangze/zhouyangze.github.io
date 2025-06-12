@@ -28,17 +28,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 ### Working Papers
-1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, Decision-focused Learning for Local Energy Communities Management Under Uncertainty. Submitted to IEEE Transactions on Smart Grid.
-1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting. Submitted to IEEE Transactions on Smart Grid.
-1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, Privacy-Preserving End-to-End Load Forecasting for Multi-Energy Systems. Submitted to IEEE Transactions on Industrial Informatics.
-1. **Yangze Zhou**, Guoxin Lin, Yi Wang, Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors. Submitted to Applied Energy.
+1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Smart Grid.
+1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, "Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting," Submitted to IEEE Transactions on Smart Grid.
+1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, "Privacy-Preserving End-to-End Load Forecasting for Multi-Energy Systems," Submitted to IEEE Transactions on Industrial Informatics.
+1. **Yangze Zhou**, Guoxin Lin, Yi Wang, "Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors," Submitted to Applied Energy.
 
-### Accepted Papers
-1. Xiaorong Wang, **Yangze Zhou***, Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach. 
-        Applied Energy, 2025 (IF=11.2).
-[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### Published Papers
+1. Xiaorong Wang, **Yangze Zhou***, "Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)," Applied Energy, 2025, 369:126177.
+1. **Yangze Zhou**, Qingsong Wen, Jie Song, Xueyuan Cui, Yi Wang, "Load Data Valuation in Multi-Energy Systems: An End-to-End Approach [pdf](https://ieeexplore.ieee.org/abstract/document/10508249)," IEEE Transactions on Smart Grid, 2024, 15(5):4564-4575.
+2. Chenxi Wang, Yangze Zhou, Qingsong Wen, and Yi Wang, “Improving Load Forecasting Performance via Sample Reweighting [pdf](https://ieeexplore.ieee.org/abstract/document/10106445)," IEEE Transactions on Smart Grid, 2023, 14(4):3317-3320.
+3. Jianxiao Wang, Feng Gao, Yangze Zhou, Qinglai Guo, Chin-Woo Tan, Jie Song, and Yi Wang, “Data Sharing in Energy Systems [pdf](https://www.sciencedirect.com/science/article/pii/S2666792423000112)," Advances in Applied Energy, 2023, 10:100132.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
