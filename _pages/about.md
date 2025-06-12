@@ -26,8 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09 - 2023.06*, B.E. in Zhejiang University, Chu Ko-Chen Honors College, Engineering in Energy & Environment System.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 I have been admitted as a visiting student at the University of Washington (Supervised by Daniel Kirschen) from Aug. 2025 to Mar. 2026.
+- *2024.09*: &nbsp;🎉🎉 I have won the Outstanding TA Award of the EEE Department, HKU.
 
 # 📝 Publications 
 ### Working Papers
