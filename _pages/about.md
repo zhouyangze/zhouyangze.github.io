@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
+### Working Papers
 1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, Decision-focused Learning for Local Energy Communities Management Under Uncertainty. Submitted to IEEE Transactions on Smart Grid.
 1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting. Submitted to IEEE Transactions on Smart Grid.
 1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, Privacy-Preserving End-to-End Load Forecasting for Multi-Energy Systems. Submitted to IEEE Transactions on Industrial Informatics.
