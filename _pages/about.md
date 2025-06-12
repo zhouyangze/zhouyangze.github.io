@@ -66,16 +66,28 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🎖 Scholarships & Honors
+### Scholarships
+1. Hong Kong Ph.D. Fellowship (HKPFS)
+2. The University of Hong Kong Presidential Ph.D. Scholarship (HKUPS)
+3. Y S and Christabel Lung Postgraduate Scholarship
+4. Zhejiang Provincial Government Scholarship **(Two times)**
+5. First Price Scholarship of ZJU **(Two times)**
+
+### Honors
+1. Outstanding Teaching Assistant Award of the EEE Department, HKU
+2. Outstanding Graduate of Zhejiang Province
+3. Outstanding Graduate of ZJU
+4. Outstanding Student of ZJU **(Two times)**
+
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# Academic & Student Services
+# 💻 Academic & Student Services
 ### Academic Services
 1. Reviewer of IEEE Transactions on Smart Grid
 2. Reviewer of IEEE Power Engineering Letter
@@ -88,5 +100,3 @@ My research interest includes neural machine translation and computer vision. I 
 ### Academic Services
 1. Teaching Assistant in Energy Internet (ELEC7011) at HKU (195 Students)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
