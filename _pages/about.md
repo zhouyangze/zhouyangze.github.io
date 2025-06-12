@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-- *Yangze Zhou*, Yihong Zhou, Thomas Morstyn, Yi Wang, Decision-focused Learning for Local Energy Communities Management Under Uncertainty. Submitted to  IEEE Transactions on Smart Grid.
+- **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, Decision-focused Learning for Local Energy Communities Management Under Uncertainty. Submitted to  IEEE Transactions on Smart Grid.
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
