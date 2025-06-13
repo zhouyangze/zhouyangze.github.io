@@ -48,7 +48,7 @@ My research interest includes load forecasting, multi-energy systems, and data s
 3. Chenxi Wang, **Yangze Zhou**, Qingsong Wen, and Yi Wang, “[Improving Load Forecasting Performance via Sample Reweighting](https://ieeexplore.ieee.org/abstract/document/10106445)," IEEE Transactions on Smart Grid, 2023, 14(4):3317-3320.
 4. Jianxiao Wang, Feng Gao, **Yangze Zhou**, Qinglai Guo, Chin-Woo Tan, Jie Song, and Yi Wang, “[Data Sharing in Energy Systems](https://www.sciencedirect.com/science/article/pii/S2666792423000112)," Advances in Applied Energy, 2023, 10:100132.
 5. **Yangze Zhou**, Xueyuan Cui, "[Can Cross-sector Information Improve Multi-energy Demand Forecasting Accuracy](https://www.sciencedirect.com/science/article/pii/S2352484722025811)?" Energy Reports, 
-6. Cheng Feng, Kedi Zheng, **Yangze Zhou**, Peter Palensky, Qixin Chen, "[Update scheduling for ADMM-based energy sharing in virtual power plants considering massive prosumer access](https://ieeexplore.ieee.org/abstract/document/10041124),". IEEE Transactions on Smart Grid, 2023, 14(5)3961-3975.
+6. Cheng Feng, Kedi Zheng, **Yangze Zhou**, Peter Palensky, Qixin Chen, "[Update scheduling for ADMM-based energy sharing in virtual power plants considering massive prosumer access](https://ieeexplore.ieee.org/abstract/document/10041124),". IEEE Transactions on Smart Grid, 2023, 14(5):3961-3975.
 
 **2022**
 5. **Yangze Zhou**, Xiangning Tian, Chaobo Zhang, Yang Zhao, Tingting Li, "[Elastic Weight Consolidation based Adaptive Neural Networks for Dynamic Building Energy Load Prediction Modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378778822002699)," Energy and Buildings, 2022, 265:112098.
