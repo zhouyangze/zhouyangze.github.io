@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D candidate of the Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
-My research interest includes load forecasting, multi-energy systems, and data sharing in energy systems. I have published more than 11 journal papers (10 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>262, H index=8</span></strong></a>.
+My research interest includes load forecasting, multi-energy systems, and data sharing in energy systems. I have published 11 journal papers (10 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>263, H index=8</span></strong></a>.
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D in The University of Hong Kong (HKU), Department of Electrical and Electronic Engineering, Supervised by [Yi Wang](http://www.eeyiwang.com/).
