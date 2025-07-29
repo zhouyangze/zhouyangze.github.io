@@ -22,7 +22,8 @@ I am currently a Ph.D candidate of the Department of Electrical and Electronic E
 My research interest includes load forecasting, multi-energy systems, and data sharing in energy systems. I have published 11 journal papers (10 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>288, H index=8</span></strong></a>.
 
 # 📖 Educations
-- *2023.09 - Now*, Ph.D in The University of Hong Kong (HKU), Department of Electrical and Electronic Engineering, Supervised by [Yi Wang](http://www.eeyiwang.com/).
+- *2025.08 - Now*, Visiting student in the University of Washington (UW), Department of Electrical & Computer Engineering, Supervised by [Daniel Kirschen](https://people.ece.uw.edu/kirschen/index.html).
+- *2023.09 - Now*, Ph.D in the University of Hong Kong (HKU), Department of Electrical and Electronic Engineering, Supervised by [Yi Wang](http://www.eeyiwang.com/).
 - *2019.09 - 2023.06*, B.E. in Zhejiang University (ZJU), Chu Ko-Chen Honors College, Engineering in Energy & Environment System.
 
 # 🔥 News
