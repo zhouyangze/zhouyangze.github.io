@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D candidate of the Department of Electrical and Electronic Engineering, The University of Hong Kong.
 
-My research interest includes load forecasting, multi-energy systems, and data sharing in energy systems. I have published 11 journal papers (10 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>310, H index=8</span></strong></a>.
+My research interest includes load forecasting, multi-energy systems, and data sharing in energy systems. I have published 11 journal papers (10 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>308, H index=8</span></strong></a>.
 
 # 📖 Educations
 - *2025.08 - Now*, Visiting student in the University of Washington (UW), Department of Electrical & Computer Engineering, Supervised by [Daniel Kirschen](https://people.ece.uw.edu/kirschen/index.html).
@@ -33,7 +33,7 @@ My research interest includes load forecasting, multi-energy systems, and data s
 
 # 📝 Publications 
 ### Working Papers
-1. **Yangze Zhou**, Xiaorong Wang, Zhixian Wang, Nan Lu, Yi Wang, "Secure Federated Probabilistic Load Forecasting for Multi-energy Systems with Diffusion Model," Submitted to IEEE Transactions on Power Systems.
+1. **Yangze Zhou**, Xiaorong Wang, Zhixian Wang, Nan Lu, Yi Wang, "Secure Federated Probabilistic Load Forecasting for Multi-energy Systems with Diffusion Model," Submitted to IEEE Transactions on Smart Grid.
 1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Smart Grid.
 1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, "Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting," Submitted to IEEE Transactions on Smart Grid.
 1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, "Privacy-Preserving End-to-End Load Forecasting for Multi-Energy Systems," Submitted to IEEE Transactions on Industrial Informatics.
