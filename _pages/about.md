@@ -37,9 +37,11 @@ My research interest includes load forecasting, multi-energy systems, and data s
 1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Smart Grid.
 1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, "Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting," Submitted to IEEE Transactions on Smart Grid.
 1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, "Privacy-Preserving End-to-End Load Forecasting for Multi-Energy Systems," Submitted to IEEE Transactions on Industrial Informatics.
-1. **Yangze Zhou**, Guoxin Lin, Dayan Sun, Zhifeng Liang, Ning Zhang, "Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors," Submitted to International Journal of Electrical Power & Energy Systems.
 
-### English Journals Paper
+### Accepted Papers
+1. **Yangze Zhou**, Guoxin Lin, Dayan Sun, Zhifeng Liang, Ning Zhang, "Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors," Accepted by International Journal of Electrical Power & Energy Systems.
+
+### English Journals Papers
 **2025**
 1. Xiaorong Wang, **Yangze Zhou***, "[Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)," Applied Energy, 2025, 369:126177.
 
