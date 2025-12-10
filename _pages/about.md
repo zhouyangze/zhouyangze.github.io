@@ -33,7 +33,7 @@ My research interest includes load forecasting, multi-energy systems, and data s
 
 # 📝 Publications 
 ### Working Papers
-1. Nan Lu, Dalin Qin, **Yangze Zhou**, Lei Bai, Qingsong Wen, Chongqing Kang, Yi Wang, "Electricity Load Forecasting Under Extreme Heat and Cold Wave", Submitted to Nature Energy (Equally contributed first author).
+1. Nan Lu, Dalin Qin, **Yangze Zhou**, Lei Bai, Qingsong Wen, Chongqing Kang, Yi Wang, "Electricity Load Forecasting Under Extreme Heat and Cold Wave", Submitted to Nature Machine Intelligence (Equally contributed first author).
 1. **Yangze Zhou**, Dalin Qin, Yi Wang, "How Shall We Evaluate Load Forecasts?", Submitted to Power and Energy Future.
 1. **Yangze Zhou**, Xiaorong Wang, Zhixian Wang, Nan Lu, Yi Wang, "Secure Federated Probabilistic Load Forecasting for Multi-energy Systems with Diffusion Model," Submitted to IEEE Transactions on Smart Grid.
 1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Smart Grid.
