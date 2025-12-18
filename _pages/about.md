@@ -74,10 +74,11 @@ My research interest includes load forecasting, multi-energy systems, and data s
 5. First Price Scholarship of ZJU **(Two times)**
 
 ### Awards
-1. Outstanding Teaching Assistant Award of the EEE Department, HKU
-2. Outstanding Graduate of Zhejiang Province
-3. Outstanding Graduate of ZJU
-4. Outstanding Student of ZJU **(Two times)**
+1. Outstanding Teaching Assistant Award for Engineering Research Postgraduate Students, HKU
+2. Outstanding Teaching Assistant Award of the EEE Department, HKU
+3. Outstanding Graduate of Zhejiang Province
+4. Outstanding Graduate of ZJU
+5. Outstanding Student of ZJU **(Two times)**
 
 # 💻 Academic and Student Services
 
