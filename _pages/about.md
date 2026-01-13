@@ -35,14 +35,16 @@ My research interest includes load forecasting, multi-energy systems, and data s
 ### Working Papers
 1. **Yangze Zhou**, Yu Zuo, Daniel Kirschen, and Yi Wang, "LLM-Empowered Decision-focused Learning for the Operation of Local Energy Communities", Submitted to IEEE Power Engineering Letters.
 1. Nan Lu, Dalin Qin, **Yangze Zhou**, Lei Bai, Qingsong Wen, Chongqing Kang, Yi Wang, "Electricity Load Forecasting Under Extreme Heat and Cold Wave", Submitted to Nature Communications (Equally contributed first author).
-1. **Yangze Zhou**, Dalin Qin, Yi Wang, "How Shall We Evaluate Load Forecasts?", Submitted to Power and Energy Future.
 1. **Yangze Zhou**, Xiaorong Wang, Zhixian Wang, Nan Lu, Yi Wang, "Secure Federated Probabilistic Load Forecasting for Multi-energy Systems with Diffusion Model," Submitted to IEEE Transactions on Smart Grid.
-1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Smart Grid.
+1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Industrial Informatics.
 1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, "Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting," Submitted to IEEE Transactions on Smart Grid.
 1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, "[Privacy-preserving Decision-focused Learning for Multi-energy Systems](https://arxiv.org/abs/2510.21858)," Submitted to IEEE Transactions on Smart Grid.
 
 
 ### English Journals Papers
+**2026**
+1. **Yangze Zhou**, Dalin Qin, Yi Wang, "How Shall We Evaluate Load Forecasts?", Power and Energy Future, 2026.
+
 **2025**
 1. **Yangze Zhou**, Guoxin Lin, Dayan Sun, Zhifeng Liang, Ning Zhang, "[Interpretable Load Forecasting via Representation Learning of Geo-distributed Meteorological Factors](https://www.sciencedirect.com/science/article/pii/S0142061525008312)," International Journal of Electrical Power & Energy Systems, 2025, 172:111283.
 1. Xiaorong Wang, **Yangze Zhou***, "[Probabilistic Wind Power Forecasting: An Adaptive Personalized Federated Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261925009079)," Applied Energy, 2025, 369:126177.
