@@ -27,7 +27,7 @@ My research interest includes load forecasting, multi-energy systems, and data s
 - *2019.09 - 2023.06*, B.E. in Zhejiang University (ZJU), Chu Ko-Chen Honors College, Engineering in Energy & Environment System.
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 I have been admitted as a visiting student at the University of Waterloo (Supervised by [Claudio Canizares]([https://people.ece.uw.edu/kirschen/index.html](https://uwaterloo.ca/electrical-computer-engineering/profile/ccanizar))) from Apr. 2026 to Sep. 2026.
+- *2026.01*: &nbsp;🎉🎉 I have been admitted as a visiting student at the University of Waterloo (Supervised by [Claudio Canizares](https://uwaterloo.ca/electrical-computer-engineering/profile/ccanizar)) from Apr. 2026 to Sep. 2026.
 - *2025.06*: &nbsp;🇩🇰🥳 I have attended DTU Summer School 2025 and presented our new work "[Decision-focused Learning for Local Energy Communities Management Under Uncertainty](https://energy-markets-school.dk/wp/wp-content/uploads/2025/05/Yangze_Zhou.pdf)".
 - *2025.04*: &nbsp;🎉🎉 I have been admitted as a visiting student at the University of Washington (Supervised by [Daniel Kirschen](https://people.ece.uw.edu/kirschen/index.html)) from Aug. 2025 to Apr. 2026.
 - *2024.09*: &nbsp;🎉🎉 I have won the Outstanding TA Award of the EEE Department, HKU.
