@@ -92,9 +92,10 @@ My research interest includes load forecasting, multi-energy systems, and data s
 4. Reviewer of IEEE Computational Intelligence Magazine
 5. Reviewer of IEEE Power and Energy Magazine
 6. Reviewer of Applied Energy
-7. Reviewer of Electric Power Systems Research
-8. Reviewer of IET Renewable Power Generation
-9. Reviewer of IET Electrical Engineering
+7. 6. Reviewer of Energy Reports
+8. Reviewer of Electric Power Systems Research
+9. Reviewer of IET Renewable Power Generation
+10. Reviewer of IET Electrical Engineering
 
 ### Student Services
 1. Teaching Assistant in Energy Internet (ELEC7011) at HKU (195 Students)
