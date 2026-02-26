@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D candidate of the Department of Electrical and Electronic Engineering, The University of Hong Kong.
+I am currently a Ph.D candidate of the Department of Electrical and Computer Engineering, The University of Hong Kong.
 
 My research interest includes load forecasting, multi-energy systems, and data sharing in energy systems. I have published 13 journal papers (12 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>410, H index=8</span></strong></a>.
 
