@@ -23,7 +23,7 @@ My research interest includes load forecasting, multi-energy systems, and data s
 
 # 📖 Educations
 - *2025.08 - Now*, Visiting student in the University of Waterloo (UWaterloo), Department of Electrical & Computer Engineering, Supervised by [Claudio Canizares](https://uwaterloo.ca/electrical-computer-engineering/profile/ccanizar) (IEEE Fellow).
-- *2023.09 - Now*, Ph.D in the University of Hong Kong (HKU), Department of Electrical and Electronic Engineering, Supervised by [Yi Wang](http://www.eeyiwang.com/).
+- *2023.09 - Now*, Ph.D in the University of Hong Kong (HKU), Department of Electrical & Computer Engineering, Supervised by [Yi Wang](http://www.eeyiwang.com/).
 - *2025.08 - 2026.03, Visiting student in the University of Washington (UW), Department of Electrical & Computer Engineering, Supervised by [Daniel Kirschen](https://people.ece.uw.edu/kirschen/index.html) (IEEE Fellow).
 - *2019.09 - 2023.06*, B.E. in Zhejiang University (ZJU), Chu Ko-Chen Honors College, Engineering in Energy & Environment System.
 
