@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D candidate of the Department of Electrical and Computer Engineering, The University of Hong Kong.
 
-My research interests include load forecasting, multi-energy systems, and data sharing in energy systems. I have published 14 journal papers (13 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>446, H index=8</span></strong></a>.
+My research interests include load forecasting, multi-energy systems, and data sharing in energy systems. I have published 14 journal papers (13 in English, 1 in Chinese) with total <a href='https://scholar.google.com/citations?user=ZxFQboUAAAAJ'>google scholar citations <strong><span id='total_cit'>448, H index=8</span></strong></a>.
 
 # 📖 Educations
 - *2026.04 - Now*, Visiting student in the University of Waterloo (UWaterloo), Department of Electrical & Computer Engineering, Supervised by [Claudio Canizares](https://uwaterloo.ca/electrical-computer-engineering/profile/ccanizar) (IEEE Fellow).
