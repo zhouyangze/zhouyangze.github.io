@@ -35,7 +35,6 @@ My research interests include load forecasting, multi-energy systems, and data s
 
 # 📝 Publications 
 ### Working Papers
-1. Nan Lu, Dalin Qin, **Yangze Zhou**, Lei Bai, Qingsong Wen, Chongqing Kang, Yi Wang, "Electricity Load Forecasting Under Extreme Heat and Cold Wave", Submitted to Nature Communications (Equally contributed first author).
 1. **Yangze Zhou**, Xiaorong Wang, Zhixian Wang, Nan Lu, Yi Wang, "Federated Probabilistic Load Forecasting for Multi-energy Systems with Diffusion Model," Submitted to IEEE Transactions on Applied Energy.
 1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Smart Grid.
 1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, "Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting," Submitted to Applied Energy.
@@ -43,6 +42,7 @@ My research interests include load forecasting, multi-energy systems, and data s
 
 ### English Journals Papers
 **2026**
+1. Nan Lu, Dalin Qin, **Yangze Zhou**, Lei Bai, Qingsong Wen, Chongqing Kang, Yi Wang, "Electricity Load Forecasting Under Extreme Heat and Cold Wave", Accepted by Nature Communications (Equally contributed first author).
 1. **Yangze Zhou**, Ruiyang Yao, Dalin Qin, Yixiong Jia, Yi Wang, "[Privacy-preserving Decision-focused Learning for Multi-energy Systems](https://ieeexplore.ieee.org/abstract/document/11526866)," IEEE Transactions on Smart Grid, 2026.
 1. **Yangze Zhou**, Yu Zuo, Daniel Kirschen, and Yi Wang, "[LLM-Empowered Decision-focused Learning for the Operation of Local Energy Communities](https://ieeexplore.ieee.org/abstract/document/11457676)", IEEE Transactions on Smart Grid, 2026.
 1. **Yangze Zhou**, Dalin Qin, Yi Wang, "[How Shall We Evaluate Load Forecasts?](https://www.sciopen.com/article/10.26599/PEF.2026.9650004)," Power and Energy Future, 2026, 1(1): 9650004.
