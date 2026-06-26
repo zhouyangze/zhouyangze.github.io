@@ -35,7 +35,7 @@ My research interests include load forecasting, multi-energy systems, and data s
 
 # 📝 Publications 
 ### Working Papers
-1. **Yangze Zhou**, Xiaorong Wang, Zhixian Wang, Nan Lu, Yi Wang, "Federated Probabilistic Load Forecasting for Multi-energy Systems with Diffusion Model," Submitted to IEEE Transactions on Applied Energy.
+1. **Yangze Zhou**, Xiaorong Wang, Zhixian Wang, Nan Lu, Yi Wang, "Federated Probabilistic Load Forecasting for Multi-energy Systems with Diffusion Model," Submitted to Applied Energy.
 1. **Yangze Zhou**, Yihong Zhou, Thomas Morstyn, Yi Wang, "Decision-focused Learning for Local Energy Communities Management Under Uncertainty," Submitted to IEEE Transactions on Smart Grid.
 1. Ruiyang Yao, **Yangze Zhou**, Yi Wang, "Blockchain-Assisted Vertical Federated Learning for Multi-Energy Load Forecasting," Submitted to Applied Energy.
 
