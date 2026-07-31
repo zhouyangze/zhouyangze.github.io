@@ -104,5 +104,6 @@ My research interests include load forecasting, multi-energy systems, and data s
 14. Reviewer of IET Electrical Engineering
 
 ### Student Services
-1. Teaching Assistant in Energy Internet (ELEC7011) at HKU (195 Students)
+1. Teaching Assistant in Energy Internet (ELEC7011) at HKU (2023,2024)
+2. Teaching Assistant in Railway Systems (ELEC4141) at HKU (2025)
 
