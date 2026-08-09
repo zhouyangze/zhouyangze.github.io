@@ -105,5 +105,5 @@ My research interests include load forecasting, multi-energy systems, and data s
 
 ### Student Services
 1. Teaching Assistant in Energy Internet (ELEC7011) at HKU (2023,2024)
-2. Teaching Assistant in Railway Systems (ELEC4141) at HKU (2025)
+2. Teaching Assistant in Electric Railway Systems (ELEC4141) at HKU (2025)
 
