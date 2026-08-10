@@ -89,19 +89,20 @@ My research interests include load forecasting, multi-energy systems, and data s
 
 ### Academic Services
 1. Reviewer of IEEE Transactions on Smart Grid
-2. Reviewer of IEEE Transactions on Consumer Electronics
-3. Reviewer of IEEE Power Engineering Letters
-4. Reviewer of IEEE Internet of Things Journal
-5. Reviewer of IEEE Computational Intelligence Magazine
-6. Reviewer of IEEE Power and Energy Magazine
-7. Reviewer of Applied Energy
-8. Reviewer of Energy and Buildings
-9. Reviewer of Energy Reports
-10. Reviewer of Sustainable Energy, Grids and Networks
-11. Reviewer of Electric Power Systems Research
-12. Reviewer of IET Renewable Power Generation
-13. Reviewer of IET Energy Conversion and Economics
-14. Reviewer of IET Electrical Engineering
+2. Reviewer of IEEE Transactions on Energy Markets, Policy, and Regulation
+3. Reviewer of IEEE Transactions on Consumer Electronics
+4. Reviewer of IEEE Power Engineering Letters
+5. Reviewer of IEEE Internet of Things Journal
+6. Reviewer of IEEE Computational Intelligence Magazine
+7. Reviewer of IEEE Power and Energy Magazine
+8. Reviewer of Applied Energy
+9. Reviewer of Energy and Buildings
+10. Reviewer of Energy Reports
+11. Reviewer of Sustainable Energy, Grids and Networks
+12. Reviewer of Electric Power Systems Research
+13. Reviewer of IET Renewable Power Generation
+14. Reviewer of IET Energy Conversion and Economics
+15. Reviewer of IET Electrical Engineering
 
 ### Student Services
 1. Teaching Assistant in Energy Internet (ELEC7011) at HKU (2023,2024)
